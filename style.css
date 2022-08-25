@@ -130,6 +130,12 @@ footer {
     place-content: center;
 }
 
+.social__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .social__icon:hover {
     color: var(--Soft-Magenta);
     border: 1px solid var(--Soft-Magenta);
